@@ -3,7 +3,7 @@
 
 ## Lancer
 `yarn init` => pour installer des dépandances  
-`yarn run dev` ou `yarn run build` => pour lancer le sapper  
+`yarn run dev` ou `yarn run build; yarn run start` => pour lancer le sapper  
 finalement navigé sur http://localhost:3000/  
 
 
